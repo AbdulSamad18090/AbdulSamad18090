@@ -48,11 +48,11 @@ I care about clean, readable code, interfaces that feel simple to use, and shipp
 ### 📊 GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdulSamad18090&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&bg_color=45,312e81,0f172a&title_color=60a5fa&text_color=e2e8f0&icon_color=818cf8&ring_color=818cf8" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSamad18090&layout=compact&hide_border=true&border_radius=12&bg_color=45,312e81,0f172a&title_color=60a5fa&text_color=e2e8f0" alt="Top languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdulSamad18090&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSamad18090&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
 </p>
 <p>
-  <img height="165" src="https://streak-stats.demolab.com?user=AbdulSamad18090&hide_border=true&border_radius=12&background=45,312e81,0f172a&ring=818cf8&fire=818cf8&currStreakNum=60a5fa&currStreakLabel=60a5fa&sideNums=60a5fa&sideLabels=e2e8f0&dates=94a3b8&stroke=475569" alt="GitHub streak and total contributions">
+  <img height="165" src="https://streak-stats.demolab.com?user=AbdulSamad18090&hide_border=true&theme=transparent" alt="GitHub streak and total contributions">
   <a href="https://github.com/AbdulSamad18090?tab=achievements"><img height="165" src="assets/achievements.svg" alt="Achievements: Pull Shark x2"></a>
 </p>
 
