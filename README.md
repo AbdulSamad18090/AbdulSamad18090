@@ -52,7 +52,8 @@ I care about clean, readable code, interfaces that feel simple to use, and shipp
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSamad18090&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
 </p>
 <p>
-  <img src="https://streak-stats.demolab.com?user=AbdulSamad18090&hide_border=true&theme=transparent" alt="GitHub streak and total contributions">
+  <img height="165" src="https://streak-stats.demolab.com?user=AbdulSamad18090&hide_border=true&theme=transparent" alt="GitHub streak and total contributions">
+  <a href="https://github.com/AbdulSamad18090?tab=achievements"><img height="120" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" alt="Pull Shark x2 achievement" title="Pull Shark x2"></a>
 </p>
 
 ### 📫 Get in touch
