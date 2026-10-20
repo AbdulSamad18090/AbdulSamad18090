@@ -26,6 +26,10 @@ I care about clean, readable code, interfaces that feel simple to use, and shipp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" alt="LLMs">
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logo=databricks&logoColor=white" alt="RAG">
+  <img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=flat-square&logo=probot&logoColor=white" alt="Agentic AI">
+  <img src="https://img.shields.io/badge/AI_Workflows-00A67E?style=flat-square&logo=githubactions&logoColor=white" alt="AI Workflows">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native">
@@ -44,8 +48,11 @@ I care about clean, readable code, interfaces that feel simple to use, and shipp
 ### 📊 GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdulSamad18090&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdulSamad18090&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSamad18090&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=AbdulSamad18090&hide_border=true&theme=transparent" alt="GitHub streak and total contributions">
 </p>
 
 ### 📫 Get in touch
