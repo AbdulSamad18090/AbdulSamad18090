@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://abdulsamad-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://github.com/AbdulSamad18090?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
+  <a href="https://abdulsamad-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/AbdulSamad18090?tab=repositories"><img src="https://img.shields.io/badge/Repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
 </p>
 
 ---
