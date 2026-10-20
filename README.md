@@ -10,14 +10,15 @@
 
 ---
 
-### 🌾 What I'm working on
+### 👋 About me
 
-At **BaKhabar Kissan** I build agri-tech software that helps field agents reach farmers:
+I'm a full-stack developer who enjoys taking an idea all the way from a rough sketch to something people actually use. I'm comfortable moving between the frontend, the backend and the database, and I like owning the whole picture rather than just one layer of it.
 
-- **Decision-support recommendation engine** — a Node.js pipeline that combines PostgreSQL/PostGIS spatial queries, ERPNext order data and an LLM to decide which farmers agents should visit and which products to recommend.
-- **Admin portal** — a Next.js dashboard for managing farmers, shops, agents and recommendations.
-- **REST API and data sync services** — the backend and pipelines that keep farmer, farm and sales data in sync across systems.
-- **Crop disease detection** — machine-learning experiments for identifying crop diseases from images.
+Most of my days are spent building web apps with React and Next.js, writing APIs and data pipelines in Node.js, and modelling data in PostgreSQL. I have a soft spot for problems that mix the real world with software: maps and location data, syncing messy data between systems, and finding practical ways to put LLMs and machine learning to work on everyday decisions.
+
+Right now I'm at BaKhabar Kissan, where that means building tools that help field teams support farmers across Pakistan. Outside of work I like experimenting with real-time features like chat and video calling, trying out mobile development with React Native, and picking up whatever new tool makes the next project a bit easier.
+
+I care about clean, readable code, interfaces that feel simple to use, and shipping things that solve a real problem.
 
 ### 🛠️ Tech stack
 
@@ -39,19 +40,6 @@ At **BaKhabar Kissan** I build agri-tech software that helps field agents reach 
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
-
-### 🚀 Selected projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [cv-builder-io](https://github.com/AbdulSamad18090/cv-builder-io) | Build and export a CV in the browser | JavaScript |
-| [Issue-Tracker-NextJs-Full-Stack](https://github.com/AbdulSamad18090/Issue-Tracker-NextJs-Full-Stack) | Full-stack issue tracker | Next.js, TypeScript |
-| [Chat-App-MERN-Stack](https://github.com/AbdulSamad18090/Chat-App-MERN-Stack) | Real-time chat app | MongoDB, Express, React, Node |
-| [video-call-web-rtc](https://github.com/AbdulSamad18090/video-call-web-rtc) | Peer-to-peer video calling | WebRTC, JavaScript |
-| [Collaborative-Content-Creation-Tool](https://github.com/AbdulSamad18090/Collaborative-Content-Creation-Tool) | Multi-user content editing | JavaScript |
-| [role-based-permissions](https://github.com/AbdulSamad18090/role-based-permissions) | Role-based access control | JavaScript |
-| [react-native-todo-app](https://github.com/AbdulSamad18090/react-native-todo-app) | Mobile to-do app | React Native, TypeScript |
-| [bkk_crop_disease_detect_ml](https://github.com/AbdulSamad18090/bkk_crop_disease_detect_ml) | Crop disease detection model | Python |
 
 ### 📊 GitHub stats
 
